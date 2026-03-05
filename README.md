@@ -108,10 +108,3 @@ The project can be further improved by:
 - Building a movie recommendation system
 - Deploying the model as a web application
 
----
-
-## Author
-
-**Gauri Patil**  
-B.Tech Computer Science Engineering  
-D Y Patil International University
