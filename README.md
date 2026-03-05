@@ -100,7 +100,6 @@ Through this project, the following concepts were learned:
 ---
 
 ## Future Improvements
-
 The project can be further improved by:
 
 - Using advanced algorithms (Random Forest, SVM, Neural Networks)
